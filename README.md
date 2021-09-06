@@ -1,2 +1,4 @@
 # IoT-water-quality-measurement
 This project is about automatic water quality management system using IoT. We collect sensor data and upload it to cloud. and we created a web interface where user can check the water quality of particular area. Admin can login and visualized data of water. Also an android app was created, where user can login and see whether water in particular area is safe or not.
+This project is done using Flask framework for creating interactive web page between user and cloud DB firebase. And used Raspberry pi3 module, pH and Conductivity sensor to measure water data. We have programmed this in python. We also used HTML,CSS, JS and kotlin to create user friendly web page and android mobile application.
+I cannot upload codes here as it contains some private information. I will be uploading report and ppt here.  
