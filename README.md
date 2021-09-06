@@ -1,0 +1,2 @@
+# IoT-water-quality-measurement
+This project is about automatic water quality management system using IoT. We collect sensor data and upload it to cloud. and we created a web interface where user can check the water quality of particular area. Admin can login and visualized data of water. Also an android app was created, where user can login and see whether water in particular area is safe or not.
